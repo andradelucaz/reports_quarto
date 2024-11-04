@@ -1,6 +1,7 @@
 ---
 title: "Analysis"
-format: html
+format: 
+  html:
     embed-resources: TRUE
     theme: lux
 knitr: 
